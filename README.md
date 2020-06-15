@@ -1,22 +1,11 @@
-# Dev Wallpapers
+# Wallpapers & Stickers
 
-### FREE FOR ALL
-Download it, modify it, use it!
+### Download, modify, use!
 
-### Português
-Estes wallpapers foram criados por mim, com base nas tecnologias e linguagens que já estudei ou usei ao longo da minha carreira acadêmica e profissional.  
+# What is it?
+This repository contains several icons and stickers for devs, and wallpapers that I created using these stickers.
 
-Deixei tudo separadinho, para que você possa criar também os seus próprios wallpapers.  
+You can download and use as you like.
 
-Existe também, uma pasta chamada ```stickers``` que possui os stickers prontos para download e impressão, caso você queira colar no seu equipamento ou dispositivo.  
-
-Estou utilizando o Photoshop 2020 para a criação dos wallpapers e stickers.  
-
-### English
-These wallpapers were created by me, based on the technologies and languages ​​that I have studied or used throughout my academic and professional career.  
-
-I left everything separate, so you can also create your own wallpapers.  
-
-There is also a folder called ```stickers``` that has the stickers ready for download and printing, in case you want to paste them on your device or device.  
-
-I'm using Photoshop 2020 to create wallpapers and stickers.  
+# How do i modify?
+Your need Adobe Photoshop or app compatible with ```.psd``` format.
